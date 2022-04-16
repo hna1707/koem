@@ -1,0 +1,2314 @@
+<div id="page2">
+		<div class="header">
+			<div class="inner">
+				<h1><a href="/site/koem/main.do">KOEM 해양환경공단 로고</a></h1>
+				<ul class="topLink">
+					<li><a href="https://www.koem.or.kr:4443/site/skoem/main.do" target="_blank" title="새창열림">E-방제증서</a></li>
+					<li><a href="/site/insa/main.do" target="_blank" title="새창열림">국민희망일자리센터</a></li>
+					<li><a href="https://www.merti.or.kr/" target="_blank" title="새창열림">해양환경교육원</a></li>
+				</ul>
+				<ul class="gnb">
+
+			<li>
+				<a href="/site/koem/01/10101010000002019051004.jsp">정보공개</a>
+				<div class="subMenu">
+					<div class="inner">
+						<div class="subNavTitle">						 
+							<b>정보공개</b>
+							
+							<p>KOEM은 해양환경 공공정보를 더 넓게 더 바르게 <br>알리겠습니다.</p>									
+																
+							<span class="icon1"></span>
+						</div>
+
+					
+						<ul class="depth2 col1">
+						
+						<li>
+							
+							<a href="/site/koem/01/10101010000002019051004.jsp">
+								정보공개안내
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/01/10101010000002019051004.jsp">
+									정보공개제도 안내
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/01/10101020000002019051004.jsp">
+									불복처리절차
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/01/10101030000002019051004.jsp">
+									비공개 대상정보 분류기준
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+					
+						<ul class="depth2 col2">
+						
+						<li>
+							
+							<a href="/site/koem/ex/publicList/PublicListF.do">
+								사전정보공표
+								
+							</a>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+					
+						<ul class="depth2 col3">
+						
+						<li>
+							
+							<a href="/site/koem/ex/board/List.do?cbIdx=475">
+								정보목록
+								
+							</a>
+
+						 </li>
+						 
+						   <!--  정보목록-->
+						<li><a href="http://www.open.go.kr" target="_blank" title="새창열림">정보공개청구 <img src="/images/koem/common/icon_newWindow.png" alt="새창표시아이콘"></a></li>
+						<li><a href="/site/koem/01/10105000000002019051004.jsp">공공데이터 개방</a></li>
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+
+				
+
+
+				
+
+					
+						<ul class="depth2 col4">
+						
+						<li>
+							
+							<a href="/site/koem/ex/board/List.do?cbIdx=311" class="a-link" target="_blank" title="새창열림">
+								사업실명제
+								
+							</a>
+
+						 </li>
+						 
+						 	
+						    <!--  사업실명제-->
+						<li><a href="/site/koem/ex/board/List.do?cbIdx=316">규정 제·개정 사전예고</a></li>
+						<li><a href="/site/koem/01/10108000000002019051004.jsp">경영공시</a></li>
+						 
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+
+				
+
+
+				
+
+			
+			
+			</div>
+		</div>			
+	</li>
+
+			<li>
+				<a href="/site/koem/02/10201010000002019051004.jsp">소통참여</a>
+				<div class="subMenu">
+					<div class="inner">
+						<div class="subNavTitle">						 
+							<b>소통참여</b>
+							
+							<p>해양환경공단은 국민신뢰와 <br>고객감동의 고객만족 우수기관을 <br>지향합니다.</p>
+																
+							<span class="icon2"></span>
+						</div>
+
+					
+						<ul class="depth2 col1">
+						
+						<li>
+							
+							<a href="/site/koem/02/10201010000002019051004.jsp">
+								온라인 민원신청
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/02/10201010000002019051004.jsp">
+									민원신청
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/02/10201020000002019051004.jsp">
+									나의민원
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+					
+						<ul class="depth2 col2">
+						
+						<li>
+							
+							<a href="/site/koem/02/10201030000002019051004.jsp">
+								국민참여
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/02/10201030000002019051004.jsp">
+									혁신제안
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/ex/board/List.do?cbIdx=275">
+									직원칭찬
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/02/10202040000002021083102.jsp">
+									안전제안
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+					
+						<ul class="depth2 col3">
+						
+						<li>
+							
+							<a href="/site/koem/02/10203000000002019051004.jsp">
+								KOEM신문고
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/02/10203010000002019051004.jsp">
+									공익신고
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/02/10203020000002019051004.jsp">
+									부정부패 신고
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/02/10203030000002019051004.jsp">
+									갑질행위 신고
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/02/10203040000002019051004.jsp">
+									청탁금지법 위반신고
+									</a>
+								</li>
+
+								<li>
+									<a href="https://www.safetyreport.go.kr" target="_blank" title="새창열림">
+									안전신문고
+									 <img src="/images/koem/common/icon_newWindow.png" alt="새창표시아이콘"></a>
+								</li>
+
+								<li>
+									<a href="/site/koem/02/10203070000002019070504.jsp">
+									성희롱·성폭력 신고
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/02/10203080000002019070504.jsp">
+									인권침해신고
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/02/10203090000002019070504.jsp">
+									KOEM 직장내괴롭힘 신고
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/02/10203060000002019051004.jsp">
+									유해해양생물 신고
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/02/10203120000002020083109.jsp">
+									불법하도급 신고센터
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/02/10203130000002020122101.jsp">
+									규제개선(기업성장응답센터)
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+					
+						<ul class="depth2 col4">
+						
+						<li>
+							
+							<a href="/site/koem/ex/board/List.do?cbIdx=276">
+								자주하는질문(FAQ)
+								
+							</a>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						    <!--  자주하는질문-->
+						  <li><a href="/site/koem/ex/board/List.do?cbIdx=527">채용 무엇이든 말海요</a></li>
+						<li><a href="/site/koem/ex/board/List.do?cbIdx=524">공공데이터 의견수렴</a></li>
+						 	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+					
+						<ul class="depth2 col5">
+						
+						<li>
+							
+							<a href="/site/koem/ex/board/List.do?cbIdx=524">
+								공공데이터 의견수렴
+								
+							</a>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+					
+						<ul class="depth2 col6">
+						
+						<li>
+							
+							<a href="/site/koem/ex/board/List.do?cbIdx=527">
+								채용 무엇이든 말海요
+								
+							</a>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+			
+			
+			</div>
+		</div>			
+	</li>
+
+			<li>
+				<a href="/site/koem/ex/board/List.do?cbIdx=236">소식정보</a>
+				<div class="subMenu">
+					<div class="inner">
+						<div class="subNavTitle">						 
+							<b>소식정보</b>
+							
+							<p>해양환경공단의 다양한 소식을 <br>빠르게 전해드립니다.</p>
+																
+							<span class="icon3"></span>
+						</div>
+
+					
+						<ul class="depth2 col1">
+						
+						<li>
+							
+							<a href="/site/koem/ex/board/List.do?cbIdx=236">
+								새소식
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/bodo/selectBodoList.do">
+									보도자료
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/bodo/selectNewsMngList.do">
+									공단소식
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/ex/board/List.do?cbIdx=257">
+									카드뉴스
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/ex/board/List.do?cbIdx=236">
+									공지사항
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+					
+						<ul class="depth2 col2">
+						
+						<li>
+							
+							<a href="/site/koem/03/10305010000002019051004.jsp">
+								입찰정보
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/03/10305010000002019051004.jsp">
+									입찰공고
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/ex/board/List.do?cbIdx=340">
+									입찰참가자격사전공개
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/03/10305030000002019051004.jsp">
+									수의계약정보
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/ex/board/List.do?cbIdx=516">
+									특허 수의계약정보
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/03/10302080000002020092503.jsp">
+									계약기준 및 처리절차
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+					
+						<ul class="depth2 col3">
+						
+						<li>
+							
+							<a href="/site/koem/ex/board/List.do?cbIdx=274">
+								홍보자료
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/ex/board/List.do?cbIdx=274">
+									홍보동영상
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/ex/board/List.do?cbIdx=318">
+									인쇄광고
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/ex/board/List.do?cbIdx=336">
+									라디오광고
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/ex/board/List.do?cbIdx=326">
+									브로슈어
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+					
+						<ul class="depth2 col4">
+						
+						<li>
+							
+							<a href="/site/koem/ex/board/List.do?cbIdx=319">
+								간행물
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/ex/board/List.do?cbIdx=319">
+									사보
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/ex/board/List.do?cbIdx=328">
+									기타간행물
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						    <!--  간행물-->
+						<li><a href="/site/koem/ex/board/List.do?cbIdx=244">방제자료실</a></li>
+						 
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+
+				
+
+			
+			
+			</div>
+		</div>			
+	</li>
+
+			<li>
+				<a href="/site/koem/04/10401010000002019051004.jsp">사업안내</a>
+				<div class="subMenu">
+					<div class="inner">
+						<div class="subNavTitle">						 
+							<b>사업안내</b>
+							
+							<p>건강한 바다, 깨끗한 바다, 안전한 바다를 <br>만들어 海맑은 미래를 <br>열겠습니다.</p>
+																
+							<span class="icon4"></span>
+						</div>
+
+					
+						<ul class="depth2 col1">
+						
+						<li>
+							
+							<a href="/site/koem/04/10401010000002019051004.jsp">
+								해양환경 보전
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/04/10401010000002019051004.jsp">
+									국가 해양생태계 종합조사
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/04/10401020000002019051004.jsp">
+									해양생태계 복원
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/04/10401030000002019051004.jsp">
+									해양환경 모니터링
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/04/10401040000002019051004.jsp">
+									해양보호구역 관리
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/04/10401050000002019051004.jsp">
+									해양기후변화대응
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/04/10401060000002019051004.jsp">
+									해양환경정보포털 운영
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/04/10401110000002019072904.jsp">
+									해양폐기물 정화
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/04/10401070000002019051004.jsp">
+									해양부유쓰레기 수거
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/04/10401080000002019051004.jsp">
+									오염퇴적물 정화
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/04/10401090000002019051004.jsp">
+									오염물질 수거·처리
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/04/10401100000002019051004.jsp">
+									해양폐기물관리센터
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+					
+						<ul class="depth2 col2">
+						
+						<li>
+							
+							<a href="/site/koem/04/10402010000002019051004.jsp">
+								해양오염 방제
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/04/10402010000002019051004.jsp">
+									방제대응태세 구축
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/04/10402020000002019051004.jsp">
+									해양오염사고 방제역량 강화
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/04/10402040000002020031201.jsp">
+									해양오염사고 예방활동
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/04/10402050000002020031609.jsp">
+									침몰선박 관리
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+					
+						<ul class="depth2 col3">
+						
+						<li>
+							
+							<a href="/site/koem/04/10403010000002019051004.jsp">
+								해양사업
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/04/10403010000002019051004.jsp">
+									항만예선사업
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+					
+						<ul class="depth2 col4">
+						
+						<li>
+							
+							<a href="/site/koem/04/10404010000002019051004.jsp">
+								교육훈련·연구개발
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/04/10404010000002019051004.jsp">
+									해양환경교육원 운영
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/04/10404030000002019052103.jsp">
+									국가해양환경교육센터 운영
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/04/10404020000002019051004.jsp">
+									연구개발
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						   <!--  교육훈련·연구개발-->
+						<li><a href="/site/koem/04/10405010000002019051004.jsp">국제협력</a></li>
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+
+				
+
+			
+			
+			</div>
+		</div>			
+	</li>
+
+			<li>
+				<a href="/site/koem/05/10501010000002019051004.jsp">공단소개</a>
+				<div class="subMenu">
+					<div class="inner">
+						<div class="subNavTitle">						 
+							<b>공단소개</b>
+							
+							<p>푸른 해양의 미래가치를 창조하는 <br>국민기업, 해양환경공단</p>
+																
+							<span class="icon5"></span>
+						</div>
+
+					
+						<ul class="depth2 col1">
+						
+						<li>
+							
+							<a href="/site/koem/05/10501010000002019051004.jsp">
+								일반현황
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/05/10501010000002019051004.jsp">
+									경영목표
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/05/10501020000002019051004.jsp">
+									설립목적
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/05/10501030000002019051004.jsp">
+									연혁
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/05/10501040000002019051004.jsp">
+									주요사업 및 경영성과
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/05/10501050000002019051004.jsp">
+									기관 상징
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+					
+						<ul class="depth2 col2">
+						
+						<li>
+							
+							<a href="/site/koem/05/10502010000002019051004.jsp">
+								이사장 소개
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/05/10502010000002019051004.jsp">
+									인사말
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/05/10502020000002019051004.jsp">
+									프로필
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/ex/board/List.do?cbIdx=333">
+									이사장 동정
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/05/10502030000002019051004.jsp">
+									이사장과의 대화
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+					
+						<ul class="depth2 col3">
+						
+						<li>
+							
+							<a href="/site/koem/05/10503010000002019051004.jsp">
+								조직 및 직원안내
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/05/10503010000002019051004.jsp">
+									조직도
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/ex/emp/Emp_List.do">
+									직원검색
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+					
+						<ul class="depth2 col4">
+						
+						<li>
+							
+							<a href="/site/koem/05/10504010000002019051005.jsp">
+								찾아오시는길
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/05/10504010000002019051005.jsp">
+									본사
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/05/10504020000002019051005.jsp">
+									지사
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/05/10504030000002020030401.jsp">
+									해양환경교육원
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/05/10504040000002020030401.jsp">
+									해양환경조사연구원
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+			
+			
+			</div>
+		</div>			
+	</li>
+
+			<li>
+				<a href="/site/koem/06/10601010000002019051005.jsp">사회적가치</a>
+				<div class="subMenu">
+					<div class="inner">
+						<div class="subNavTitle">						 
+							<b>사회적가치</b>
+							
+							<p>KOEM은 지속가능성을 기반으로 한 <br>경영활동을 통해 국민기업으로서 <br>책임을 다하겠습니다.</p>
+																
+							<span class="icon6"></span>
+						</div>
+
+					
+						<ul class="depth2 col1">
+						
+						<li>
+							
+							<a href="/site/koem/06/10601010000002019051005.jsp">
+								사회적가치
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/06/10601010000002019051005.jsp">
+									비전 및 추진체계
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/ex/board/List.do?cbIdx=339">
+									ESG경영보고서
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						   <!--  사회적가치-->
+						<li><a href="#">윤리경영</a>
+									<ul class="depth3">
+										<li><a href="/site/koem/06/10603010000002019051005.jsp">비전 및 추진체계</a></li>
+										<li><a href="/site/koem/06/10603020000002019051005.jsp">윤리경영 규범</a></li>
+										<li><a href="/site/koem/ex/board/List.do?cbIdx=337">청렴윤리 자료실</a></li>
+										<li><a href="/site/koem/ex/board/List.do?cbIdx=338">클린신고물품 처리현황</a></li>
+									</ul>
+								</li>
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+
+				
+
+					
+						<ul class="depth2 col2">
+						
+						<li>
+							
+							<a href="/site/koem/06/10604010000002019051005.jsp">
+								인권경영
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/06/10604010000002019051005.jsp">
+									비전 및 추진체계
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/06/10604020000002019051005.jsp">
+									인권경영 선언문
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/ex/board/List.do?cbIdx=511">
+									인권경영자료실
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						   <!--  인권경영-->
+						 <li><a href="#">사회공헌</a>
+									<ul class="depth3">
+										<li><a href="/site/koem/06/10605010000002019051005.jsp">비전 및 추진체계</a></li>
+										<li><a href="/site/koem/06/10605020000002019051005.jsp">KOEM TOGETHER</a></li>
+										<li><a href="/site/koem/bodo/selectServList.do">사회공헌 이야기</a></li>
+									</ul>
+								</li>
+						  
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+
+				
+
+					
+						<ul class="depth2 col3">
+						
+						<li>
+							
+							<a href="/site/koem/06/10605030100002019051005.jsp">
+								동반성장
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/06/10605030100002019051005.jsp">
+									비전 및 추진체계
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/06/10605030200002019051005.jsp">
+									지원프로그램안내
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						   <!--  동반성장-->
+						 <li><a href="/site/koem/ex/board/List.do?cbIdx=522">직거래장터</a>
+							   	<ul class="depth3">
+									<li><a href="/site/koem/ex/board/List.do?cbIdx=522">내돈내산 직거래 장터</a></li>
+									<li><a href="/site/koem/ex/board/List.do?cbIdx=523">나만의 레시피</a></li>
+								</ul>
+						  </li>
+						  <li><a href="/site/koem/06/10608010000002019051005.jsp">고객만족경영</a>
+									<ul class="depth3">
+										<li><a href="/site/koem/06/10608010000002019051005.jsp">비전 및 추진체계</a></li>
+										<li><a href="/site/koem/06/10608020000002019051005.jsp">고객서비스헌장</a></li>
+									</ul>
+								</li>
+						    
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+
+				
+
+					
+						<ul class="depth2 col4">
+						
+						<li>
+							
+							<a href="/site/koem/06/10609010000002019052103.jsp">
+								경영혁신
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/06/10609010000002019052103.jsp">
+									비전 및 추진체계
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						      <!--  경영혁신-->  
+						  	<li><a href="/site/koem/06/10610010000002019112809.jsp">안전경영</a>
+									<ul class="depth3">
+										<li><a href="/site/koem/06/10610010000002019112809.jsp">비전 및 추진체계</a></li>
+										<li><a href="/site/koem/06/10610020000002019112809.jsp">안전보건경영방침</a></li>
+										<li><a href="/site/koem/06/10610030000002019112809.jsp">안전경영위원회</a></li>
+										<li><a href="/site/koem/06/10610040000002021083101.jsp">작업중지 요청제</a></li>
+									</ul>
+								</li>
+						    
+						 
+						</ul>
+						 
+
+				
+
+					
+						<ul class="depth2 col5">
+						
+						<li>
+							
+							<a href="/site/koem/06/10610010000002019112809.jsp">
+								안전경영
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/06/10610010000002019112809.jsp">
+									비전 및 추진체계
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/06/10610020000002019112809.jsp">
+									안전보건경영방침
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/06/10610030000002019112809.jsp">
+									안전경영위원회
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/06/10610040000002021083101.jsp">
+									작업중지 요청제
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+					
+						<ul class="depth2 col6">
+						
+						<li>
+							
+							<a href="/site/koem/ex/board/List.do?cbIdx=522">
+								직거래 장터
+								
+							</a>
+
+							<ul class="depth3">
+
+								<li>
+									<a href="/site/koem/ex/board/List.do?cbIdx=522">
+									내돈내산 직거래 장터
+									</a>
+								</li>
+
+								<li>
+									<a href="/site/koem/ex/board/List.do?cbIdx=523">
+									나만의 레시피
+									</a>
+								</li>
+	
+
+							</ul>
+
+						 </li>
+						 
+						 	
+						  
+						 
+						 
+						  
+						  	
+						  	
+						  
+						
+						 
+						
+						
+						 
+						 
+						 
+						  
+						 
+						    
+						    
+						 
+						</ul>
+						 
+
+				
+
+			
+			
+			</div>
+		</div>			
+	</li>
+
+				</ul>
+				
+				<!-- <div class="topRight">
+					<a href="/site/eng/main.do" target="_blank" title="새창" class="btnLang">ENG</a>
+					<a href="#" class="topSearch">통합검색</a>
+					<div class="topSearchBox">
+						<input type="text" title="검색어 입력" placeholder="검색어를 입력하세요">
+						<input type="submit" value="검색" title="검색">
+					</div>
+					<a href="#allNav" class="allNavOpen btn_modalOpen">전체메뉴</a>
+				</div> -->
+				<!-- 통합 검색 화면 연동  -->
+				<div class="topRight">
+					<a href="/site/eng/main.do" class="btnLang">ENG</a> <a href="#" class="topSearch">통합검색</a>
+					<div class="topSearchBox">
+				
+						<form name="totalSearchForm2" id="totalSearchForm2" action="/searchall.do" onsubmit="return false;">
+						
+						<script type="text/javascript" src="/js/search/searchKeywordHistory.js"></script>
+						<input type="text" id="totalSearchTerm2" name="totalSearchTerm2" value="" title="검색어 입력" placeholder="검색어를 입력하세요" onfocus="dq_Total2setTextbox('0',event);" onmousedown="dq_Total2setTextbox('1',event);" onkeydown="dq_Total2setTextbox('1',event);" autocomplete="off"> 
+					
+						<div id="totalAutoLayer2" class="totalAuto_complete" style="display:none;" onmouseover="dq_Total2setMouseon();" onmouseout="dq_Total2setMouseoff();">
+							<div class="clear2"></div>
+							<div class="align_r"><a href="#" class="close_auto">자동완성닫기</a></div>
+						</div>
+						
+						<input type="submit" value="검색" onclick="searchKeywordHead2();">
+						</form>	
+					</div>
+					<a href="#allNav" class="allNavOpen btn_modalOpen">전체메뉴</a>
+				</div>
+				<!-- 통합 검색 화면 연동  -->
+				
+				<!-- ><a href="#" class="btnPopZone">팝업존</a> -->
+			</div>
+		</div>
+		<div class="content">
+			<div class="mainAbout">
+				<div class="inner">
+					<h2>About KOEM</h2>
+					<ul>
+						<li class="bg1">
+							<b>공단소개</b>
+							<p>해양환경공단 기관에 대해 <br>소개해 드립니다.</p>
+							<a href="/site/koem/05/10501010000002019051004.jsp">바로가기</a>
+						</li>
+						<li class="bg2">
+							<b>이사장 인사말</b>
+							<p>해양환경공단 이사장 한기준입니다. <br>해양환경공단 홈페이지를 <br>방문해주셔서 감사합니다. </p>
+							<a href="/site/koem/05/10502010000002019051004.jsp">바로가기</a>
+						</li>
+						<li class="bg3">
+							<b>사회공헌</b>
+							<p>‘사회적 책임과 깨끗한 바다의 선도기관’을 비전으로 핵심업무와 연계하여 협업을 통한 공유가치창출형(CSV) 사회공헌을 추구하고 있습니다. </p>
+							<a href="/site/koem/bodo/selectServList.do">바로가기</a>
+						</li>
+						<li class="bg4">
+							<b>찾아오시는 길</b>
+							<p>해양환경공단 본사 및 지사의 <br>오시는 길을 안내드립니다.</p>
+							<a href="/site/koem/05/10504010000002019051005.jsp">바로가기</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="mainBusiness">
+				<div class="inner">
+					<h2>주요업무</h2>
+					<ul>
+						<li class="item1"><div class="overBox">
+							<b>해양환경 <br>보전사업</b>
+							<div>
+								<span class="title">해양환경 보전사업</span>
+								<span class="ment">해양생태계 조사 및 관련 정보의 관리는 해양환경생태계를 보전·관리함에 있어 가장 중요한 요소입니다.</span>
+								<span class="desc">해양환경공단은 국가 해양생태계 종합조사, 해양보호구역관리, 해양환경 모니터링 및 국가 해양환경정보통합 시스템 운영 등을 통해 우리나라 해양생태계 보전에 중추적인 역할을 수행하고 있습니다.</span>
+								<a href="/site/koem/04/10401010000002019051004.jsp" class="btnDetail">자세히보기</a>
+							</div>
+						</div></li>
+						<li class="item2"><div class="overBox">
+							<b>해양오염 <br>방제사업</b>
+							<div>
+								<span class="title">해양오염 방제사업</span>
+								<span class="ment">해상에서 발생하는 기름 유출 사고는 해양과 연안의 생태계는 물론 지역경제에 심각한 피해를 주게 됩니다. </span>
+								<span class="desc">해양환경공단은 선진방제체계를 구축하고 해양수산부, 국민안전처 등 관계기관과의 협력을 통하여 해양 유류오염사고에 적극 대처하고 있습니다.</span>
+								<a href="/site/koem/04/10402010000002019051004.jsp" class="btnDetail">자세히보기</a>
+							</div>
+						</div></li>
+						<li class="item3 active"><div class="overBox">
+							<b>해양지원 <br>사업</b>
+							<div>
+								<span class="title">해양지원 사업</span>
+								<span class="ment">해양안전 수호를 위해 주요 8개 항만에 27척을 배치하여 해양사고 골든타임 확보에 주력하고 있습니다.</span>
+								<span class="desc">해양환경공단은 전국 주요 항만에 예인·방제선을 운영하면서 원활한 항만운영 지원 및 사고 선박 구조·구난을 실시하고 있으며, 축적된 해상 기중기선 운영 노하우로 침몰선박 인양 및 항만 인프라 구축 공사를 지원하고 있습니다.</span>
+								<a href="/site/koem/04/10403010000002019051004.jsp" class="btnDetail">자세히보기</a>
+							</div>
+						</div></li>
+						<li class="item4"><div class="overBox">
+							<b>교육훈련·<br>연구개발</b>
+							<div>
+								<span class="title">교육훈련·연구개발</span>
+								<span class="ment">해양에 대한 올바른 지식을 전달하고 바른 실천을 통해 모두가 꿈꾸는 아름다운 바다를 만들어 가겠습니다.</span>
+								<span class="desc">해양환경공단은 다양한 형태의 교육 프로그램을 통해 해양환경의 중요성에 대한 국민의 인식을 증진시키고, 해양환경 전문인력을 양성하고 있습니다. 또한 해양환경 개선과 보전을 위한 끊임없는 연구 개발을 지속적으로 수행합니다.</span>
+								<a href="/site/koem/04/10404010000002019051004.jsp" class="btnDetail">자세히보기</a>
+							</div>
+						</div></li>
+						<li class="item5"><div class="overBox">
+							<b>국제협력</b>
+							<div>
+								<span class="title">국제협력</span>
+								<span class="ment">해양환경분야 국제현안에 대한 대응능력 강화를 통한 지속 가능한 해양환경 관리체계를 구축합니다.</span>
+								<span class="desc">해양환경공단은 글로벌 네트워크를 통한 양자간, 다자간 국제협력을 강화함으로써 해양환경의 보전을 위한 국제적 노력에 동참하고 있습니다.</span>
+								<a href="/site/koem/04/10405010000002019051004.jsp" class="btnDetail">자세히보기</a>
+							</div>
+						</div></li>
+					</ul>
+				</div>
+			</div>
+			<div class="botSection">
+				<div class="inner">
+					<b class="title">정보공개 바로가기</b>
+					<ul>
+						<li><a href="/site/koem/ex/board/List.do?cbIdx=509"><span class="icon1"></span>사내규칙</a></li>
+						<li><a href="/site/koem/ex/board/List.do?cbIdx=316"><span class="icon2"></span>규정 제·개정 사전예고</a></li>
+						<li><a href="/site/koem/ex/publicList/PublicListF.do?searchBbsRealm=0300000&amp;searchCondition=title&amp;searchKeyword=업무추진비"><span class="icon3"></span>업무추진비 사용내역</a></li>
+						<li><a href="/site/koem/customer/customerAuth/screen.do?pageNm=customerRegist&amp;cbIdx=487&amp;bcIdx=01"><span class="icon4"></span>예산낭비신고</a></li>
+						<li><a href="http://www.alio.go.kr/popSusi.do?apbaId=C0533&amp;reportFormRootNo=43006" target="_blank" title="새창열림"><span class="icon5"></span>내부감사결과</a></li>
+						<li><a href="/site/koem/ex/publicList/PublicListF.do"><span class="icon6"></span>사전정보공표</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="mainAside">
+				<a href="#" class="btn_pageMove btn_pagePrev">
+					<b class="soundOnly">소식·소통</b>
+					<!-- <img src="https://www.koem.or.kr/images/koem/main/img_mainAsideTitle2.png" alt="소식·소통"> -->
+					<div class="dotArea">
+						<b>페이지이동</b>
+						<span class="dot1"></span>
+						<span class="dot2"></span>
+						<span class="dot3"></span>
+						<span class="dot4"></span>
+						<span class="dot5"></span>
+						<span class="dot6"></span>
+						<span class="dot7"></span>
+						<span class="dot8"></span>
+						<span class="dot9"></span>
+						<span class="dot10"></span>
+						<span class="dot11"></span>
+						<span class="dot12"></span>
+					</div>
+				</a>
+				<div class="snsLink">
+					<a href="http://blog.naver.com/koempr" target="_blank" title="새창열림" class="icon1">해양환경공단 네이버밴드</a>
+					<a href="https://www.facebook.com/KOEMpr" target="_blank" title="새창열림" class="icon2">해양환경공단 페이스북</a>
+					<a href="https://twitter.com/koem_twt" target="_blank" title="새창열림" class="icon3">해양환경공단 트위터</a>
+					<a href="http://post.naver.com/koempr" target="_blank" title="새창열림" class="icon4">해양환경공단 네이버포스트</a>
+					<a href="https://www.instagram.com/koempr" target="_blank" title="새창열림" class="icon5">해양환경공단 인스타그램</a>
+				</div>
+			</div>
+		</div>
+		<div class="mainBanner">
+			<div class="inner">
+				<div class="rolling slick-initialized slick-slider"><a href="#" data-role="none" class="slick-prev slick-arrow" aria-label="Previous" role="button" style="display: block;">Previous</a>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				<div aria-live="polite" class="slick-list draggable"><div class="slick-track" role="listbox" style="opacity: 1; width: 40000px; transform: translate3d(-1712px, 0px, 0px);"><div class="slick-slide slick-cloned" style="" tabindex="-1" role="option" aria-describedby="slick-slide32" data-slick-index="-6" aria-hidden="true">
+						
+						
+							<a href="https://www.safetyreport.go.kr/#main" target="_blank" title="새창열림" tabindex="-1"><img src="/common/hot/getImage.do?hlIdx=HL00000038" alt="안전신문고" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div><div class="slick-slide slick-cloned" style="" tabindex="-1" role="option" aria-describedby="slick-slide33" data-slick-index="-5" aria-hidden="true">
+						
+						
+							<a href="https://www.merti.or.kr/" target="_blank" title="새창열림" tabindex="-1"><img src="/common/hot/getImage.do?hlIdx=HL00000039" alt="해양환경교육원" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div><div class="slick-slide slick-cloned" style="" tabindex="-1" role="option" aria-describedby="slick-slide34" data-slick-index="-4" aria-hidden="true">
+						
+						
+							<a href="https://www.koem.or.kr:4443/site/skoem/main.do" target="_blank" title="새창열림" tabindex="-1"><img src="/common/hot/getImage.do?hlIdx=HL00000040" alt="E-방제증서" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div><div class="slick-slide slick-cloned" style="" tabindex="-1" role="option" aria-describedby="slick-slide35" data-slick-index="-3" aria-hidden="true">
+						
+						
+							<a href="http://www.gov.kr/" target="_blank" title="새창열림" tabindex="-1"><img src="/common/hot/getImage.do?hlIdx=HL00000031" alt="정부24" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div><div class="slick-slide slick-cloned" style="" tabindex="-1" role="option" aria-describedby="slick-slide36" data-slick-index="-2" aria-hidden="true">
+						
+						
+							<a href="http://www.koem.or.kr/site/insa/main.do" target="_blank" title="새창열림" tabindex="-1"><img src="/common/hot/getImage.do?hlIdx=HL00000021" alt="KOEM 국민희망일자리센터" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div><div class="slick-slide slick-cloned" style="" tabindex="-1" role="option" aria-describedby="slick-slide37" data-slick-index="-1" aria-hidden="true">
+						
+						
+							<a href="https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&amp;nttId=86464" target="_blank" title="새창열림" tabindex="-1"><img src="/common/hot/getImage.do?hlIdx=HL00000041" alt="국가안전대진단" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div><div class="slick-slide" style="" tabindex="-1" role="option" aria-describedby="slick-slide30" data-slick-index="0" aria-hidden="true">
+						
+						
+							<a href="http://www.mof.go.kr/index.do" target="_blank" title="새창열림" tabindex="-1"><img src="/common/hot/getImage.do?hlIdx=HL00000036" alt="해양수산부" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div><div class="slick-slide" style="" tabindex="-1" role="option" aria-describedby="slick-slide31" data-slick-index="1" aria-hidden="true">
+						
+						
+							<a href="https://www.meis.go.kr/portal/main.do" target="_blank" title="새창열림" tabindex="-1"><img src="/common/hot/getImage.do?hlIdx=HL00000037" alt="해양환경정보포털" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div><div class="slick-slide slick-current slick-active" style="" tabindex="-1" role="option" aria-describedby="slick-slide32" data-slick-index="2" aria-hidden="false">
+						
+						
+							<a href="https://www.safetyreport.go.kr/#main" target="_blank" title="새창열림" tabindex="0"><img src="/common/hot/getImage.do?hlIdx=HL00000038" alt="안전신문고" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div><div class="slick-slide slick-active" style="" tabindex="-1" role="option" aria-describedby="slick-slide33" data-slick-index="3" aria-hidden="false">
+						
+						
+							<a href="https://www.merti.or.kr/" target="_blank" title="새창열림" tabindex="0"><img src="/common/hot/getImage.do?hlIdx=HL00000039" alt="해양환경교육원" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div><div class="slick-slide slick-active" style="" tabindex="-1" role="option" aria-describedby="slick-slide34" data-slick-index="4" aria-hidden="false">
+						
+						
+							<a href="https://www.koem.or.kr:4443/site/skoem/main.do" target="_blank" title="새창열림" tabindex="0"><img src="/common/hot/getImage.do?hlIdx=HL00000040" alt="E-방제증서" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div><div class="slick-slide slick-active" style="" tabindex="-1" role="option" aria-describedby="slick-slide35" data-slick-index="5" aria-hidden="false">
+						
+						
+							<a href="http://www.gov.kr/" target="_blank" title="새창열림" tabindex="0"><img src="/common/hot/getImage.do?hlIdx=HL00000031" alt="정부24" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div><div class="slick-slide slick-active" style="" tabindex="-1" role="option" aria-describedby="slick-slide36" data-slick-index="6" aria-hidden="false">
+						
+						
+							<a href="http://www.koem.or.kr/site/insa/main.do" target="_blank" title="새창열림" tabindex="0"><img src="/common/hot/getImage.do?hlIdx=HL00000021" alt="KOEM 국민희망일자리센터" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div><div class="slick-slide slick-active" style="" tabindex="-1" role="option" aria-describedby="slick-slide37" data-slick-index="7" aria-hidden="false">
+						
+						
+							<a href="https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&amp;nttId=86464" target="_blank" title="새창열림" tabindex="0"><img src="/common/hot/getImage.do?hlIdx=HL00000041" alt="국가안전대진단" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div><div class="slick-slide slick-cloned" style="" tabindex="-1" role="option" aria-describedby="slick-slide30" data-slick-index="8" aria-hidden="true">
+						
+						
+							<a href="http://www.mof.go.kr/index.do" target="_blank" title="새창열림" tabindex="-1"><img src="/common/hot/getImage.do?hlIdx=HL00000036" alt="해양수산부" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div><div class="slick-slide slick-cloned" style="" tabindex="-1" role="option" aria-describedby="slick-slide31" data-slick-index="9" aria-hidden="true">
+						
+						
+							<a href="https://www.meis.go.kr/portal/main.do" target="_blank" title="새창열림" tabindex="-1"><img src="/common/hot/getImage.do?hlIdx=HL00000037" alt="해양환경정보포털" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div><div class="slick-slide slick-cloned" style="" tabindex="-1" role="option" aria-describedby="slick-slide32" data-slick-index="10" aria-hidden="true">
+						
+						
+							<a href="https://www.safetyreport.go.kr/#main" target="_blank" title="새창열림" tabindex="-1"><img src="/common/hot/getImage.do?hlIdx=HL00000038" alt="안전신문고" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div><div class="slick-slide slick-cloned" style="" tabindex="-1" role="option" aria-describedby="slick-slide33" data-slick-index="11" aria-hidden="true">
+						
+						
+							<a href="https://www.merti.or.kr/" target="_blank" title="새창열림" tabindex="-1"><img src="/common/hot/getImage.do?hlIdx=HL00000039" alt="해양환경교육원" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div><div class="slick-slide slick-cloned" style="" tabindex="-1" role="option" aria-describedby="slick-slide34" data-slick-index="12" aria-hidden="true">
+						
+						
+							<a href="https://www.koem.or.kr:4443/site/skoem/main.do" target="_blank" title="새창열림" tabindex="-1"><img src="/common/hot/getImage.do?hlIdx=HL00000040" alt="E-방제증서" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div><div class="slick-slide slick-cloned" style="" tabindex="-1" role="option" aria-describedby="slick-slide35" data-slick-index="13" aria-hidden="true">
+						
+						
+							<a href="http://www.gov.kr/" target="_blank" title="새창열림" tabindex="-1"><img src="/common/hot/getImage.do?hlIdx=HL00000031" alt="정부24" onerror="javascript:this.src='/images/site/mnt/photo_bg.gif';"></a>
+						
+					</div></div></div><a href="#" data-role="none" class="slick-next slick-arrow" aria-label="Next" role="button" style="display: block;">Next</a></div>
+			</div>
+		</div>
+		<script type="text/javascript" src="/js/search/dqTotalAutoMainComplete.js"></script>
+
+
+
+
+
+
+
+
+
+
+	<!-- 하단 -->
+	<div class="footer">
+			<div class="footGnb">
+				<div class="inner">
+					<a href="#wrap" class="btnBotTop">TOP</a>
+					<ul>
+
+
+				
+					<li><a href="/site/koem/01/10101010000002019051004.jsp">정보공개</a>
+		
+						<ul class="depth2">
+
+							<li><a href="/site/koem/01/10101010000002019051004.jsp">정보공개안내</a></li>
+
+							<li><a href="/site/koem/ex/publicList/PublicListF.do">사전정보공표</a></li>
+
+							<li><a href="/site/koem/ex/board/List.do?cbIdx=475">정보목록</a></li>
+
+							<li><a href="http://www.open.go.kr" class="a-link" target="_blank" title="새창">정보공개청구</a></li>
+
+							<li><a href="/site/koem/01/10105000000002019051004.jsp">공공데이터개방 및 오류신고·요구사항</a></li>
+
+							<li><a href="/site/koem/ex/board/List.do?cbIdx=311">사업실명제</a></li>
+
+							<li><a href="/site/koem/ex/board/List.do?cbIdx=316">규정 제 · 개정 사전예고</a></li>
+
+							<li><a href="/site/koem/01/10108000000002019051004.jsp">경영공시</a></li>
+						
+						</ul>
+					</li>
+
+				
+					<li><a href="/site/koem/02/10201010000002019051004.jsp">소통참여</a>
+		
+						<ul class="depth2">
+
+							<li><a href="/site/koem/02/10201010000002019051004.jsp">온라인 민원신청</a></li>
+
+							<li><a href="/site/koem/02/10201030000002019051004.jsp">국민참여</a></li>
+
+							<li><a href="/site/koem/02/10203000000002019051004.jsp">KOEM신문고</a></li>
+
+							<li><a href="/site/koem/ex/board/List.do?cbIdx=276">자주하는질문(FAQ)</a></li>
+
+							<li><a href="/site/koem/ex/board/List.do?cbIdx=524">공공데이터 의견수렴</a></li>
+
+							<li><a href="/site/koem/ex/board/List.do?cbIdx=527">채용 무엇이든 말海요</a></li>
+						
+						</ul>
+					</li>
+
+				
+					<li><a href="/site/koem/ex/board/List.do?cbIdx=236">소식정보</a>
+		
+						<ul class="depth2">
+
+							<li><a href="/site/koem/ex/board/List.do?cbIdx=236">새소식</a></li>
+
+							<li><a href="/site/koem/03/10305010000002019051004.jsp">입찰정보</a></li>
+
+							<li><a href="/site/koem/ex/board/List.do?cbIdx=274">홍보자료</a></li>
+
+							<li><a href="/site/koem/ex/board/List.do?cbIdx=319">간행물</a></li>
+
+							<li><a href="/site/koem/ex/board/List.do?cbIdx=244">방제자료실</a></li>
+						
+						</ul>
+					</li>
+
+				
+					<li><a href="/site/koem/04/10401010000002019051004.jsp">사업안내</a>
+		
+						<ul class="depth2">
+
+							<li><a href="/site/koem/04/10401010000002019051004.jsp">해양환경 보전</a></li>
+
+							<li><a href="/site/koem/04/10402010000002019051004.jsp">해양오염 방제</a></li>
+
+							<li><a href="/site/koem/04/10403010000002019051004.jsp">해양사업</a></li>
+
+							<li><a href="/site/koem/04/10404010000002019051004.jsp">교육훈련·연구개발</a></li>
+
+							<li><a href="/site/koem/04/10405010000002019051004.jsp">국제협력</a></li>
+						
+						</ul>
+					</li>
+
+				
+					<li><a href="/site/koem/05/10501010000002019051004.jsp">공단소개</a>
+		
+						<ul class="depth2">
+
+							<li><a href="/site/koem/05/10501010000002019051004.jsp">일반현황</a></li>
+
+							<li><a href="/site/koem/05/10502010000002019051004.jsp">이사장 소개</a></li>
+
+							<li><a href="/site/koem/05/10503010000002019051004.jsp">조직 및 직원안내</a></li>
+
+							<li><a href="/site/koem/05/10504010000002019051005.jsp">찾아오시는길</a></li>
+						
+						</ul>
+					</li>
+
+				
+					<li><a href="/site/koem/06/10601010000002019051005.jsp">사회적가치</a>
+		
+						<ul class="depth2">
+
+							<li><a href="/site/koem/06/10601010000002019051005.jsp">사회적가치</a></li>
+
+							<li><a href="/site/koem/06/10603010000002019051005.jsp">윤리경영</a></li>
+
+							<li><a href="/site/koem/06/10604010000002019051005.jsp">인권경영</a></li>
+
+							<li><a href="/site/koem/06/10605010000002019051005.jsp">사회공헌</a></li>
+
+							<li><a href="/site/koem/06/10605030100002019051005.jsp">동반성장</a></li>
+
+							<li><a href="/site/koem/06/10608010000002019051005.jsp">고객만족경영</a></li>
+
+							<li><a href="/site/koem/06/10609010000002019052103.jsp">경영혁신</a></li>
+
+							<li><a href="/site/koem/06/10610010000002019112809.jsp">안전경영</a></li>
+
+							<li><a href="/site/koem/ex/board/List.do?cbIdx=522">직거래 장터</a></li>
+						
+						</ul>
+					</li>
+		
+					</ul>
+				</div>				
+			</div>
+		</div>
+		<div class="footerInfo">
+			<div class="inner">
+				<a href="#" class="footLogo">KOEM 해양환경공단</a>
+				<ul class="footLink">
+					<li><a href="/site/koem/07/10701000000002019051004.jsp"><b>개인정보처리방침</b></a></li>
+					<li><a href="/site/koem/07/10704000000002019051004.jsp">이메일무단수집거부</a></li>
+					<li><a href="/site/koem/07/10703000000002019051004.jsp">저작권정책</a></li>
+					<li><a href="/site/koem/07/10702000000002019051004.jsp">영상정보 처리기기 운영·관리방침</a></li>
+					<li><a href="/site/koem/ex/emp/Emp_List.do">직원검색</a></li>
+					<li><a href="/site/koem/05/10504010000002019051005.jsp">찾아오시는 길</a></li>
+				</ul>
+				<div class="relationLink">
+					<a href="#" class="btnSiteGo">지사 홈페이지 바로가기</a>
+					<div class="linkSelect">
+						<a href="/site/busan/main.do" target="_blank" title="새창열림">부산지사</a>
+						<a href="/site/donghae/main.do" target="_blank" title="새창열림">동해지사</a>
+						<a href="/site/incheon/main.do" target="_blank" title="새창열림">인천지사</a>
+						<a href="/site/gunsan/main.do" target="_blank" title="새창열림">군산지사</a>
+						<a href="/site/yeosu/main.do" target="_blank" title="새창열림">여수지사</a>
+						<a href="/site/pohang/main.do" target="_blank" title="새창열림">포항지사</a>
+						<a href="/site/ulsan/main.do" target="_blank" title="새창열림">울산지사</a>
+						<a href="/site/pyeonghaek/main.do" target="_blank" title="새창열림">평택지사</a>
+						<a href="/site/daesan/main.do" target="_blank" title="새창열림">대산지사</a>
+						<a href="/site/mokpo/main.do" target="_blank" title="새창열림">목포지사</a>
+						<a href="/site/masan/main.do" target="_blank" title="새창열림">마산지사</a>
+						<a href="/site/jeju/main.do" target="_blank" title="새창열림">제주지사</a>
+					</div>
+				</div>
+				<div class="footSns">
+					<a href="http://blog.naver.com/koempr" target="_blank" title="새창열림" class="icon1">해양환경공단 네이버밴드</a>
+					<a href="https://www.facebook.com/KOEMpr" target="_blank" title="새창열림" class="icon2">해양환경공단 페이스북</a>
+					<a href="https://twitter.com/koem_twt" target="_blank" title="새창열림" class="icon3">해양환경공단 트위터</a>
+					<a href="http://post.naver.com/koempr" target="_blank" title="새창열림" class="icon4">해양환경공단 네이버포스트</a>
+					<a href="https://www.instagram.com/koempr" target="_blank" title="새창열림" class="icon5">해양환경공단 인스타그램</a>
+				</div>
+				<!-- 20200302 삭제 <script type="text/x-javascript" src="https://www.eprivacy.or.kr/seal/mark.js"></script> -->
+				<div class="markLink">
+					<a href="http://www.i-award.or.kr/Web/Assess/FinalCandidateView.aspx?REG_SEQNO=9190" target="_blank" title="새창열림" style="text-indent:0;"><img src="/images/koem/main/img_markLink_wa2019.png" alt="웹어워드 2019 환경에너지분야 대상 마크"></a>
+					<a href="http://www.mohw.go.kr/react/al/sal0301vw.jsp?PAR_MENU_ID=04&amp;MENU_ID=0403&amp;CONT_SEQ=351748" target="_blank" title="새창열림" style="text-indent:0;"><img src="/images/koem/main/img_markLink_add.png" alt="지역사회공헌 인정기관 마크"></a>
+					<!-- <a href="javascript:void(0);" onclick="markPopupI('2019-R043')"  title="새창열림"><span class="icon1">인터넷사이트 안전마크</span></a> -->
+					<!-- <a href="javascript:void(0);" onclick="markPopupE('2019-R104')" title="새창열림"><span class="icon2">개인정보보호 우수사이트 마크</span></a> -->
+					<a href="javascript:void(0);" onclick="window.open('https://www.eprivacy.or.kr/front/certifiedSiteMark/certifiedSiteMarkPopup.do?certCmd=EP&amp;certNum=2021-EP-R032','seal','width=527,height=720,location=no,status=no,scrollbars=no')" title="새창열림"><span class="icon2">개인정보보호 우수사이트 마크</span></a>
+					<a href="http://wa.or.kr/board/list.asp?BoardID=0006" target="_blank" title="새창열림"><span class="icon3">(사)한국장애인단체총연합회 한국웹접근성인증평가원 웹 접근성 우수사이트 인증마크(WA인증마크)</span></a>
+				</div>
+				<p class="copyright">
+					<span class="address">05718 서울특별시 송파구 송파대로28길 28</span><span class="call">대표연락처 TEL: <a href="tel:02-3498-8500" style="color: rgb(145, 146, 148); --darkreader-inline-color:#a39c90;" data-darkreader-inline-color="">02-3498-8500</a></span>
+					<span class="visitNum">오늘방문자 : 747&nbsp;&nbsp;&nbsp;&nbsp;전체방문자 : 2,079,742</span><br>
+					COPYRIGHT ⓒ 2019 KOEM. ALL RIGHTS RESERVED.
+				</p>
+			</div>
+		</div>
+	</div>
