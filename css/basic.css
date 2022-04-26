@@ -512,7 +512,7 @@ video {
 .bar_controls div {
   color: #fff;
 }
-.bar_controls .num {
+.bar_controls .page-no {
   position: absolute;
   right: 45px;
   top: 0px;
@@ -1036,7 +1036,7 @@ footer .bottom {
 }
 .close span:nth-child(2) {
   opacity: 0;
-}s
+}
 .close span:nth-child(3) {
   transform: rotate(-45deg);
   margin: 0 0 11px 0;

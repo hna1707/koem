@@ -41,7 +41,6 @@ $(function (){
       
         // 클릭 했을때 객체이동
         $('.bar_next').on('click',function(){
-            console.log("bar_next클릭!");
           if(!$slider.is(':animated')){
             // 객체 이동(왼쪽) 
             var $first = $slider.find('li:first'); // 이동후에 ul의 마지막 부분에 삽입할 객체(li)를 변수에 담는다. = null;	
@@ -53,7 +52,6 @@ $(function (){
         });
       
         $('.bar_prev').on('click',function(){
-            console.log("bar_prev클릭!");
           if(!$slider.is(':animated')){
             var $last = $slider.find('li:last');
             $slider.css('margin-top',-25).prepend($last).stop().animate({'margin-top':0});
@@ -61,11 +59,6 @@ $(function (){
         });
       
       };
-      
-      var $slider = new SliderVer();
-
-      // 인덕스 사용해서 슬라이드 숫자 변경
-
 
 // tab_content tab
 
